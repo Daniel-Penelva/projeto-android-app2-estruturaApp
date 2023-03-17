@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Estrutura res Strings</string>
+    <string name="botao_cadastro">CADASTRAR</string>
+</resources>
